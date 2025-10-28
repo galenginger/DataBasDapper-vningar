@@ -1,0 +1,1 @@
+Server=comet-direct.usbx.me;Port=17815;User=kalle;Password=apa123;Database=kalle_schooldb;
